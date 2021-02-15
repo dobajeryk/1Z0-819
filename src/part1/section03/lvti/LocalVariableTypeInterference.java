@@ -1,4 +1,4 @@
-package part1.section03.primitiveTypesAndStringApi.lvti;
+package part1.section03.lvti;
 
 public class LocalVariableTypeInterference {
     public static void main(String[] args) {

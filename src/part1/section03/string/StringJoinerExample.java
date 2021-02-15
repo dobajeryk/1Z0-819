@@ -1,4 +1,4 @@
-package part1.section03.primitiveTypesAndStringApi.string;
+package part1.section03.string;
 
 import java.util.StringJoiner;
 

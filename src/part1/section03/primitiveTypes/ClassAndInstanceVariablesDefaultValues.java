@@ -1,4 +1,4 @@
-package part1.section03.primitiveTypesAndStringApi;
+package part1.section03.primitiveTypes;
 
 public class ClassAndInstanceVariablesDefaultValues {
     // Default values for numeric static variables set to a representation of 0

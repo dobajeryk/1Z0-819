@@ -1,4 +1,4 @@
-package part1.section03.primitiveTypesAndStringApi.lvti;
+package part1.section03.lvti;
 
 public class AClassWithAVeryVeryVeryLongNameeeeeeeeeee {
     String name;

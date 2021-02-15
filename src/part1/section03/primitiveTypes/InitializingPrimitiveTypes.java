@@ -1,4 +1,4 @@
-package part1.section03.primitiveTypesAndStringApi;
+package part1.section03.primitiveTypes;
 
 public class InitializingPrimitiveTypes {
     public static void main(String[] args) {
